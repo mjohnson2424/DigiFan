@@ -1,0 +1,189 @@
+html {
+  margin: 0%;
+}
+
+body {
+  background-color: #222629;
+}
+.boxed {
+  background-color: rgb(30, 170, 40);
+  border-radius: 50px;
+}
+.featured-content-image {
+  width: 700px;
+}
+h3 {
+  color: #6b6e70;
+}
+.btn {
+  background: rgb(30, 170, 40);
+  border: rgb(30, 170, 40);
+  border-radius: 50px;
+  color: white;
+}
+.btn:hover {
+  background: rgb(30, 170, 40);
+  border: rgb(25, 165, 35);
+}
+
+.btn:focus {
+  background: rgb(30, 170, 40);
+  border: rgb(25, 165, 35);
+}
+
+body {
+  font-family: "Work Sans", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Work Sans", sans-serif;
+}
+
+.scrolling-wrapper {
+  overflow-x: auto;
+}
+
+.packlogo {
+  border-radius: 10px;
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+.imgBox {
+  display: inline-block;
+  overflow: hidden;
+}
+.imgBox img {
+  display: block;
+  transition: 0.3s ease-in-out;
+}
+.imgBox:hover img {
+  transform: scale(1.1);
+  border-radius: 10px;
+}
+
+.featuredpacklogo {
+  border-radius: 10px;
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+.imgBox {
+  display: inline-block;
+  overflow: hidden;
+}
+.imgBox img {
+  display: block;
+  transition: 0.9s ease-in-out;
+}
+.imgBox:hover img {
+  transform: scale(1.1);
+  border-radius: 10px;
+}
+
+.card-body {
+  color: #6b6e70;
+}
+.card-text {
+  color: #999d9f;
+  font-size: 30px;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: white;
+}
+
+p {
+  font-family: "Work Sans", sans-serif;
+  color: white;
+}
+a {
+  font-family: "Work Sans", sans-serif;
+  color: white;
+}
+a:hover {
+  color: white;
+}
+
+.homemarketcard {
+  border-radius: 10px;
+  width: 200px;
+  object-fit: contain;
+}
+
+.scrollmenu {
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+
+.homecreator {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 100px;
+}
+
+.marketcard {
+  width: 100%;
+  object-fit: contain;
+}
+
+.marketdesc {
+  font-size: 20px;
+}
+
+.dark {
+  background-color: #222629;
+}
+
+text {
+  color: white;
+}
+
+.marketSearch {
+  width: 100%;
+  object-fit: contain;
+}
+
+.profilepicture {
+  width: 100%;
+  object-fit: contain;
+  border-radius: 50%;
+}
+
+.collectorScore {
+  color: rgb(30, 170, 40);
+}
+
+.marketcard:hover {
+  transform: scale(1.1);
+}
+
+.marketcard {
+  display: block;
+  transition: 0.9s ease-in-out;
+}
+
+.settingsicon {
+  width: 50px;
+}
+
+div {
+  border: solid 1px white;
+}
